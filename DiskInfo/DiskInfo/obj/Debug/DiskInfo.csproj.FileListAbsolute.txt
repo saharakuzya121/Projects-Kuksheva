@@ -1,0 +1,11 @@
+C:\Users\Sergey\Downloads\repos (1)\DiskInfo\DiskInfo\obj\Debug\DiskInfo.csproj.AssemblyReference.cache
+C:\Users\Sergey\Downloads\repos (1)\DiskInfo\DiskInfo\obj\Debug\DiskInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergey\Downloads\repos (1)\DiskInfo\DiskInfo\obj\Debug\Листинг_10.Form1.resources
+C:\Users\Sergey\Downloads\repos (1)\DiskInfo\DiskInfo\obj\Debug\Листинг_10.Properties.Resources.resources
+C:\Users\Sergey\Downloads\repos (1)\DiskInfo\DiskInfo\obj\Debug\DiskInfo.csproj.GenerateResource.cache
+C:\Users\Sergey\Downloads\repos (1)\DiskInfo\DiskInfo\obj\Debug\DiskInfo.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\repos (1)\DiskInfo\DiskInfo\bin\Debug\Листинг 10.exe.config
+C:\Users\Sergey\Downloads\repos (1)\DiskInfo\DiskInfo\bin\Debug\Листинг 10.exe
+C:\Users\Sergey\Downloads\repos (1)\DiskInfo\DiskInfo\bin\Debug\Листинг 10.pdb
+C:\Users\Sergey\Downloads\repos (1)\DiskInfo\DiskInfo\obj\Debug\Листинг 10.exe
+C:\Users\Sergey\Downloads\repos (1)\DiskInfo\DiskInfo\obj\Debug\Листинг 10.pdb

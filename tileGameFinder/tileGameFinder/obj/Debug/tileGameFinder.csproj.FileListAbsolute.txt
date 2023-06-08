@@ -1,0 +1,11 @@
+C:\Users\Sergey\Downloads\repos (1)\tileGameFinder\tileGameFinder\bin\Debug\4.exe.config
+C:\Users\Sergey\Downloads\repos (1)\tileGameFinder\tileGameFinder\bin\Debug\4.exe
+C:\Users\Sergey\Downloads\repos (1)\tileGameFinder\tileGameFinder\bin\Debug\4.pdb
+C:\Users\Sergey\Downloads\repos (1)\tileGameFinder\tileGameFinder\obj\Debug\tileGameFinder.csproj.AssemblyReference.cache
+C:\Users\Sergey\Downloads\repos (1)\tileGameFinder\tileGameFinder\obj\Debug\tileGameFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergey\Downloads\repos (1)\tileGameFinder\tileGameFinder\obj\Debug\_4.Form1.resources
+C:\Users\Sergey\Downloads\repos (1)\tileGameFinder\tileGameFinder\obj\Debug\_4.Properties.Resources.resources
+C:\Users\Sergey\Downloads\repos (1)\tileGameFinder\tileGameFinder\obj\Debug\tileGameFinder.csproj.GenerateResource.cache
+C:\Users\Sergey\Downloads\repos (1)\tileGameFinder\tileGameFinder\obj\Debug\tileGameFinder.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\repos (1)\tileGameFinder\tileGameFinder\obj\Debug\4.exe
+C:\Users\Sergey\Downloads\repos (1)\tileGameFinder\tileGameFinder\obj\Debug\4.pdb

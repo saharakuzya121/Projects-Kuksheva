@@ -1,0 +1,11 @@
+C:\Users\Sergey\Downloads\repos (1)\MathTest\MathTest\bin\Debug\3.exe.config
+C:\Users\Sergey\Downloads\repos (1)\MathTest\MathTest\bin\Debug\3.exe
+C:\Users\Sergey\Downloads\repos (1)\MathTest\MathTest\bin\Debug\3.pdb
+C:\Users\Sergey\Downloads\repos (1)\MathTest\MathTest\obj\Debug\MathTest.csproj.AssemblyReference.cache
+C:\Users\Sergey\Downloads\repos (1)\MathTest\MathTest\obj\Debug\MathTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergey\Downloads\repos (1)\MathTest\MathTest\obj\Debug\_3.Form1.resources
+C:\Users\Sergey\Downloads\repos (1)\MathTest\MathTest\obj\Debug\_3.Properties.Resources.resources
+C:\Users\Sergey\Downloads\repos (1)\MathTest\MathTest\obj\Debug\MathTest.csproj.GenerateResource.cache
+C:\Users\Sergey\Downloads\repos (1)\MathTest\MathTest\obj\Debug\MathTest.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\repos (1)\MathTest\MathTest\obj\Debug\3.exe
+C:\Users\Sergey\Downloads\repos (1)\MathTest\MathTest\obj\Debug\3.pdb

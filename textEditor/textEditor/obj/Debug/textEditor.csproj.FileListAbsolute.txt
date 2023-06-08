@@ -1,0 +1,11 @@
+C:\Users\Sergey\Downloads\repos (1)\textEditor\textEditor\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sergey\Downloads\repos (1)\textEditor\textEditor\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sergey\Downloads\repos (1)\textEditor\textEditor\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sergey\Downloads\repos (1)\textEditor\textEditor\obj\Debug\textEditor.csproj.AssemblyReference.cache
+C:\Users\Sergey\Downloads\repos (1)\textEditor\textEditor\obj\Debug\textEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergey\Downloads\repos (1)\textEditor\textEditor\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sergey\Downloads\repos (1)\textEditor\textEditor\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sergey\Downloads\repos (1)\textEditor\textEditor\obj\Debug\textEditor.csproj.GenerateResource.cache
+C:\Users\Sergey\Downloads\repos (1)\textEditor\textEditor\obj\Debug\textEditor.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\repos (1)\textEditor\textEditor\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sergey\Downloads\repos (1)\textEditor\textEditor\obj\Debug\WindowsFormsApp1.pdb

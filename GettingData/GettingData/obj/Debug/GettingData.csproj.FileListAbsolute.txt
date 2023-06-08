@@ -1,0 +1,12 @@
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\bin\Debug\строки.exe.config
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\bin\Debug\строки.exe
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\bin\Debug\строки.pdb
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\obj\Debug\GettingData.csproj.AssemblyReference.cache
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\obj\Debug\GettingData.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\obj\Debug\строки.Form1.resources
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\obj\Debug\строки.Form2.resources
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\obj\Debug\строки.Properties.Resources.resources
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\obj\Debug\GettingData.csproj.GenerateResource.cache
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\obj\Debug\GettingData.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\obj\Debug\строки.exe
+C:\Users\Sergey\Downloads\repos (1)\GettingData\GettingData\obj\Debug\строки.pdb

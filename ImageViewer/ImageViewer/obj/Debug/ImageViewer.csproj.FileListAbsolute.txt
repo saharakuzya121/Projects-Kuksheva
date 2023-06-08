@@ -1,0 +1,11 @@
+C:\Users\Sergey\Downloads\repos (1)\ImageViewer\ImageViewer\bin\Debug\2.exe.config
+C:\Users\Sergey\Downloads\repos (1)\ImageViewer\ImageViewer\bin\Debug\2.exe
+C:\Users\Sergey\Downloads\repos (1)\ImageViewer\ImageViewer\bin\Debug\2.pdb
+C:\Users\Sergey\Downloads\repos (1)\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.AssemblyReference.cache
+C:\Users\Sergey\Downloads\repos (1)\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergey\Downloads\repos (1)\ImageViewer\ImageViewer\obj\Debug\_2.Form1.resources
+C:\Users\Sergey\Downloads\repos (1)\ImageViewer\ImageViewer\obj\Debug\_2.Properties.Resources.resources
+C:\Users\Sergey\Downloads\repos (1)\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.cache
+C:\Users\Sergey\Downloads\repos (1)\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\repos (1)\ImageViewer\ImageViewer\obj\Debug\2.exe
+C:\Users\Sergey\Downloads\repos (1)\ImageViewer\ImageViewer\obj\Debug\2.pdb
